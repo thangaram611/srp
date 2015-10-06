@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\pre-dexed\debug\classes-ff5b876aea2afffd5464198042a15e18d1ac0d5c.jar" />
+    </item>
+    <item
+        jar="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\pre-dexed\debug\classes-4ec31a14d20e6e8a968a444542f54fc88d5ca57a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Thangaram\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-2e659de196f7ec9a9508e9789847f69d1e30b186.jar" />
+    </item>
+    <item
+        jar="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\pre-dexed\debug\classes-a07ad31b759329c43a57b568c5c0356c97a5dc49.jar" />
+    </item>
+    <item
+        jar="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Project\srp\AndroidBluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-7bf60d38f675e4c267d169268c5e8fd777920383.jar" />
+    </item>
+
+</items>
